@@ -8,5 +8,5 @@ Se creó una tabla Persona con su respectiva información, además se crearon ot
 Para este caso he definido tres ciudades en formato Json que se cargan automáticamente al correr el servidor. Esto para centrarnos en lo que se solicita.
 dado que el crud se realiza para el Tipodocumento, al menos se debe poder crear personas para asignarles este tipo documento. 
 cuando se cargue el servidor le permitirá crear Personas con su respectiva información y luego de ello para cada persona puede realizar el crud de Tipodocumento.
-estar seguro de estar en el directorio studybud al ejecutar el comando "python manage.py runserver"
+estar seguro de estar en el directorio crud_proyect al ejecutar el comando "python manage.py runserver"
   
